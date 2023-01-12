@@ -29,7 +29,7 @@ their customer account is updated and the deposit is placed back into their acco
 the deposit is transfered to the new cup, and so on and so on. Customers may request the deposit refunded back to at anypoint as long as they have returned their cups to the Bean Drop Stations.
 
 ## Project Overviews
-### Bean Drop Point of Sale device
+### [Bean Drop Point of Sale device](https://github.com/henryjwillson/bean_drop_point_of_sale)
 The Bean Dop Point of Sale device is a device provided to businesses/cafes to allow scanning and linking of bean drop resuable cups to the global database during transactions with customers.
 Scanning cups at the point of sale device links each cup to a customer.
 
