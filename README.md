@@ -42,7 +42,7 @@ Software user interface designed to allow Bean Drop employees to conduct daily t
 delivering a crate of resuable cups to a cafe, thus the updating of the database to register that transaction. 
 Collecting cups from a Bean Drop Station is another example where the database is required to be updated to understand which Bean Drop Stations need emptying / collecting again to prevent overflow.
 
-### Bean Drop Django Website
+### [Bean Drop Django Website](https://github.com/henryjwillson/bean_drop_django_website)
 A website built on the Django framework as a location for customers to access and manage their Bean Drop accounts and a place for Bean Drop to advertise certain features and it's service to other companies.
 
 ### Bean Drop Station NB_IOT_module
