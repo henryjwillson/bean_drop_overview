@@ -33,7 +33,7 @@ the deposit is transfered to the new cup, and so on and so on. Customers may req
 The Bean Dop Point of Sale device is a device provided to businesses/cafes to allow scanning and linking of bean drop resuable cups to the global database during transactions with customers.
 Scanning cups at the point of sale device links each cup to a customer.
 
-### Bean Drop Station
+### [Bean Drop Station](https://github.com/henryjwillson/bean_drop_station)
 The Bean Drop Station is a 'smart bin' which identifies cups when customers return them. Customers place their cups in the Bean Drop Station, and with a combination of sensors;
  it is able to identify the cup and update the customer account on the global database. This allows customers to get a new cup at their nearest cafe without any additional deposit charge.
 
